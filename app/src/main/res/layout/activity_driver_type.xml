@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background = "@drawable/driver2"
+    android:padding="16dp"
+    tools:context=".DriverTypeActivity">
+
+    <Button
+        android:id="@+id/towardPatientButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/driver_Btn"
+        android:onClick="onTowardPatientClick"
+        android:text="Journey Toward Patient"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/towardHospitalButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Journey Toward Hospital"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/police_Btn"
+        android:onClick="onTowardHospitalClick"/>
+
+</LinearLayout>

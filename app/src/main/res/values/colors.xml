@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_Main">#F7E7CE</color>
+    <color name="driver_Btn">#C41E3A</color>
+    <color name="police_Btn">#0047AB</color>
+    <color name="btn_Destination">#98FB98</color>
+    <color name="routeColor">#007BFF</color>
+</resources>

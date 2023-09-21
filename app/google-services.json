@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216514420258",
+    "project_id": "resqroute-fa99e",
+    "storage_bucket": "resqroute-fa99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216514420258:android:3a4cbb8e48d88ee9ebf47b",
+        "android_client_info": {
+          "package_name": "com.example.resqroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216514420258-4kr75f3vajipmjccbaoejr9i01170ebm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPT9oO8cFdgfC5lMtG4CsUQLKpJ9yqaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216514420258-4kr75f3vajipmjccbaoejr9i01170ebm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
